@@ -32,9 +32,9 @@ description: 実験場みたいなもんよ
 4.  寝る
 
 #### general guy
-文字の大きさか
+小さくなる
 
 ##### general guy
-小さい文字
+さらに小さい
 ###### general guy
 めちゃちいさいやん

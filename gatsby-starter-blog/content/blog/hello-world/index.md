@@ -1,27 +1,19 @@
 ---
-title: 工事中‼
-date: "2015-05-01T22:12:03.284Z"
-description: "Hello World"
+title: ROUTE&&
+date: "2021-05-010T22:12:03.284Z"
+description: "寄っただけだけど"
 ---
-サンプルのまま
-This is my first post on my new fake blog! How exciting!
 
-I'm sure I'll write a lot more interesting things in the future.
+いいところだったよ
+[ROUTE66](https://ja.wikipedia.org/wiki/%E5%9B%BD%E9%81%9366%E5%8F%B7%E7%B7%9A_(%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E5%90%88%E8%A1%86%E5%9B%BD)).
 
-Oh, and here's a great quote from this Wikipedia on
-[salted duck eggs](https://en.wikipedia.org/wiki/Salted_duck_egg).
+> アメリカ合衆国中東部のイリノイ州シカゴと、西部のカリフォルニア州サンタモニカを結んでいた、全長3,755km（2,347マイル）の旧国道。1926年指定。州間高速道路の発達によりその役目を終え、1985年に廃線となった。
 
-> A salted duck egg is a Chinese preserved food product made by soaking duck
-> eggs in brine, or packing each egg in damp, salted charcoal. In Asian
-> supermarkets, these eggs are sometimes sold covered in a thick layer of salted
-> charcoal paste. The eggs may also be sold with the salted paste removed,
-> wrapped in plastic, and vacuum packed. From the salt curing process, the
-> salted duck eggs have a briny aroma, a gelatin-like egg white and a
-> firm-textured, round yolk that is bright orange-red in color.
+![ROUTE66](./r66.jpg)
 
-![Chinese Salty Egg](./salty_egg.jpg)
 
-You can also write code blocks here!
+
+関係ないけど以下書き方
 
 ```js
 const saltyDuckEgg = "chinese preserved food product"
